@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+A simple portfolio page to display about me and my work.
+
 <!--
 **Qeaxythe/qeaxythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
