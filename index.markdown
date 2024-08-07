@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Hi there! I am Qeaxythe @ Nicole Franco. I am creator of this online portfolio.
