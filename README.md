@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-A simple portfolio page to display about me and my work.
+Welcome to my GitHub profile. This is where I plan to stash and display almost all of my completed projects, and a few
+ongoing projects.
+
+There are still many things for me to set up, so be patient.
+
+I am finally commited to work on my GitHub after years of having it at idle.
 
 <!--
 **Qeaxythe/qeaxythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
